@@ -1,0 +1,283 @@
+.project1 {
+  overflow-x: hidden;
+  font-size: 20px;
+}
+
+.brief_text {
+  width: 100%;
+  color: white;
+  background-color: #000;
+  padding: 20px;
+  max-width: 100%;
+  text-align: center;
+}
+
+.col-4 img {
+  width: 100%;
+}
+
+.project_images {
+  margin-inline: 0px;
+  padding-inline: 10px;
+  background-color: #000;
+  padding-bottom: 10px;
+  padding-top: 20px;
+}
+
+.starting_img_text {
+  padding: 20px;
+  color: white;
+  background-color: black;
+}
+
+.starting_text {
+  display: flex;
+  align-items: center;
+}
+
+.project1_img1 {
+  background: url("./media/C1_bg/grid_0\ \(1\).png");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.project_img2 {
+  background: url("./media/C1_bg/grid_0\ \(3\).png");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bm_img1 {
+  background: url("./media//TF1_bg/drive-download-20221119T204605Z-001/new2.png");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bm_img2 {
+  background: url("./media/TF1_bg/bm1.png");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bm_img3 {
+  background: url("./media//TF1_bg/drive-download-20221119T204605Z-001/new1.png");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bm_img4 {
+  background: url("./media//TF1_bg/drive-download-20221119T204605Z-001/new.png");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.github_link {
+  color: white;
+  background-color: black;
+  text-align: left;
+  font-size: 1rem;
+}
+
+.text_github {
+  background-color: #000;
+}
+.text_github .brief_text {
+  padding-top: 30px;
+  text-align: center;
+}
+
+.project2_img1 {
+  background: url("./media//DS_bg/ds12.png");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.project2_img2 {
+  background: url("./media/DS_bg/new.png");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.project2_img3 {
+  background: url("https://i.ibb.co/g9zrJhn/DS23242524.png");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.starting_img_text_white_bg {
+  color: black;
+  background-color: white;
+  padding: 20px;
+}
+.project_images_white_bg {
+  padding: 25px;
+  color: #000;
+  background-color: white;
+}
+
+.project_images_white_bg img {
+  height: -webkit-fill-available;
+}
+
+.project3_img1 {
+  background: url("./media/SDE_bg/drive-download-20221119T200423Z-001/new.png");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.project3_img2 {
+  background: url("./media/SDE_bg/drive-download-20221119T200423Z-001/new1.png");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.brief_text_white_bg {
+  padding: 20px;
+}
+
+.project4_img1 {
+  background: url("./media/IDE_bg/drive-download-20221119T202128Z-001/new2.png");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.project4_img2 {
+  background: url("./media/IDE_bg/drive-download-20221119T202128Z-001/new.png");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.github_link_white_bg {
+  color: black;
+  background-color: white;
+  text-align: left;
+  font-size: 1rem;
+}
+.video_project1 {
+  background-color: white;
+  padding: 10px;
+}
+
+.img_css div img {
+  margin-block: 5px;
+  width: 100%;
+  /* width: 70%; */
+}
+
+.project3_img3 {
+  background: url("./media/SDE_bg/drive-download-20221119T200423Z-001/new3.png");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.project3_img4 {
+  background: url("./media/SDE_bg/drive-download-20221119T200423Z-001/new2.png");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.project4_img3 {
+  background: url("./media/IDE_bg/drive-download-20221119T202128Z-001/new4.png");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.tb_img1 {
+  background: url("./media/FEA_bg/drive-download-20221119T203457Z-001/new.png") !important;
+  min-height: 500px;
+  background-attachment: fixed !important;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover !important;
+}
+
+.tb_img2 {
+  background: url("./media/FEA_bg/drive-download-20221119T203457Z-001/new3.png") !important;
+  min-height: 500px;
+  background-attachment: fixed !important;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover !important;
+}
+.tb_img3 {
+  background: url("./media/FEA_bg/drive-download-20221119T203457Z-001/new4.png") !important;
+  min-height: 500px;
+  background-attachment: fixed !important;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover !important;
+}
+.tb_img4 {
+  background: url("./media/FEA_bg/drive-download-20221119T203457Z-001/new1.png") !important;
+  min-height: 500px;
+  background-attachment: fixed !important;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover !important;
+}
+
+.img_center {
+  display: block;
+  margin-left: 19%;
+}
+
+.app_interface_text {
+  align-items: center;
+  display: flex;
+  text-align: left;
+  padding-left: 0px;
+}
+.text_center {
+  width: 80%;
+  display: flex;
+  align-self: center;
+  justify-content: center;
+  margin-inline: 9%;
+  margin-top: 5%;
+}
+
+.homepage_btn {
+  color: #000;
+  text-decoration: none;
+}
+.homepage_btn_other {
+  color: white;
+  text-decoration: none;
+}
