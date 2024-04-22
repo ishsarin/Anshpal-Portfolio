@@ -5,9 +5,9 @@ const Footer = () => {
     <div>
       <div
         className="card-footer text-muted"
-        style={{ backgroundColor: "black",marginTop:"-1px"}}
+        style={{ backgroundColor: "black", marginTop: "-1px" }}
       >
-        &#169;Mohit Mohan
+        &#169; ANSHPAL SAHNI
       </div>
     </div>
   );

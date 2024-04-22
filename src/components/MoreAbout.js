@@ -17,33 +17,47 @@ const MoreAbout = () => {
         <div className="col-md-7">
           <div className=" about_the_creator_text">
             <p>
-              I was born in India, a land driven by culture, diversity, and
-              innovation. My vision is shaped by these core principles of my
-              country which are also reflected in my projects. I attribute my
-              primary characteristics of self-reliance and problem solving to my
-              curiosity and quest for making an impact. All my projects
-              highlight the same by finding solutions to relevant and real
-              problems which people face on a daily basis, whilst adding my
-              personal flair. Having lived in Edinburgh and London, as well, I
-              have further been able to develop a global perspective which
-              allows me to look at a challenge from various lenses.
+              Welcome to my corner of the web! I'm Anshpal Sahni, a versatile
+              professional with a passion for technology, analytics, and
+              community impact. With a background in computer science and
+              experience in software development and management consulting, I
+              bring a unique blend of technical expertise and strategic insight
+              to everything I do.
             </p>
-            <div>
-              {" "}
-              Having created a strong theoretical base in Mechanical and
-              Electrical Engineering during my time at the University of
-              Edinburgh, I got the opportunity to solidify my knowledge and use
-              the principles of divergent thinking to innovate unique design
-              concepts and products at Imperial College London. My current
-              degree also equips me with the academic and real-life skills which
-              are essential for the growth of an Engineer and has helped me
-              develop important insights into reverse engineering and
-              redesigning. My expertise lies majorly in product design. I
-              believe each project is multi-layered and my skill lies in
-              managing these layers qualitatively. The projects shown on this
-              website offer a glimpse into such different layers, primarily,
-              technology, design, and sustainability.
-            </div>
+            <p>
+              My journey began with a Bachelor's degree in Computer Science,
+              where I immersed myself in the world of programming and
+              technology. I then embarked on a rewarding career in software
+              development, where I had the opportunity to work on innovative
+              projects at American Express GBT. There, I cultivated my
+              problem-solving skills and gained valuable experience
+              collaborating within a global team environment. Seeking to broaden
+              my horizons and make a difference beyond the tech realm, I also
+              serve as a Management and Marketing Lead at the Indian Podiatry
+              Association, a non-profit organization dedicated to promoting foot
+              health and education. In this role, I have the privilege of
+              leveraging my expertise to drive awareness and engagement within
+              the community, contributing to meaningful initiatives that improve
+              lives.
+            </p>
+            <p>
+              Currently, I am further expanding my skill set as a Decision
+              Analyst Associate at ZS Associates, a leading management
+              consulting firm. Here, I specialize in harnessing data-driven
+              insights to inform strategic business decisions, helping clients
+              navigate complex challenges and achieve their goals. Passionate
+              about continuous learning and growth, I'm actively pursuing
+              opportunities in business and product analysis, where I can
+              leverage my diverse background to drive innovation and create
+              value. On this website, you'll find a showcase of my projects,
+              insights, and experiences, offering a glimpse into my journey and
+              the unique perspective I bring to the table. Whether you're a
+              fellow professional, a potential collaborator, or an organization
+              seeking talent, I invite you to explore further and connect with
+              me to explore how we can create impact together. Thank you for
+              visiting, and I look forward to the opportunity to connect
+              and collaborate!
+            </p>
           </div>
         </div>
         <div className="col-md-5">

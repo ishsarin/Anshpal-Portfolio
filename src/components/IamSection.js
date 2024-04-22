@@ -10,7 +10,12 @@ const IamSection = () => {
           <span className="IamSection">
             <Typewriter
               options={{
-                strings: ["Product Manager.","Product Designer.","Design Engineer.","Dragon."],
+                strings: [
+                  "Product Manager.",
+                  "Product Designer.",
+                  "Design Engineer.",
+                  "Dragon.",
+                ],
 
                 autoStart: true,
                 loop: true,
@@ -19,7 +24,7 @@ const IamSection = () => {
           </span>
         </div>
       </div>
-      <a href="#project" style={{ color: "white" }} className="bottom_arrow" >
+      <a href="#project" style={{ color: "white" }} className="bottom_arrow">
         <svg
           style={{ marginTop: "19rem" }}
           xmlns="http://www.w3.org/2000/svg"
