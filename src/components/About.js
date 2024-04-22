@@ -19,15 +19,15 @@ const About = () => {
             insights that transcend numbers, offering a glimpse into my
             analytical prowess and strategic thinking.
           </p>
-          <button className="btn btn-primary w-50 resume-btn p-3">
-            <a
-              href="https://drive.google.com/file/d/1oAwcdUZ6T8DxPc8us92t-PnhtK6Tmhka/view?usp=sharing"
-              target="_blank"
-              style={{ color: "white", textDecoration: "none" }}
-            >
+          <a
+            href="https://drive.google.com/file/d/1oAwcdUZ6T8DxPc8us92t-PnhtK6Tmhka/view?usp=sharing"
+            target="_blank"
+            style={{ color: "white", textDecoration: "none" }}
+          >
+            <button className="btn btn-primary w-50 resume-btn p-3">
               Resume
-            </a>
-          </button>
+            </button>
+          </a>
         </div>
         <div className="col-md-6 token">
           <img
