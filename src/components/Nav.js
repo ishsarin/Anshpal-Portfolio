@@ -42,6 +42,11 @@ const Nav = () => {
                 </Link>
               </li>
               <li className="nav-item">
+                <a className="nav-link " aria-current="page" href="">
+                  RESUME
+                </a>
+              </li>
+              <li className="nav-item">
                 <Link to="/about" className="nav-link " aria-current="page">
                   ABOUT
                 </Link>

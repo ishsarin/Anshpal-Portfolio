@@ -9,7 +9,7 @@
 }
 
 .logo {
-  border: 8px solid orange;
+  border: 8px solid cyan;
   border-radius: 50%;
 }
 
@@ -140,7 +140,8 @@
 }
 
 .parallax {
-  background: url("./media/About_and_Home_Page/abg1.png");
+  /* background: url("./media/About_and_Home_Page/abg1.png"); */
+  background: url("./media/blue-background.jpg");
   min-height: 500px;
   background-attachment: fixed;
   background-position: center;
@@ -174,7 +175,8 @@
 }
 
 .parallax2 {
-  background: url("./media/About_and_Home_Page/abg3.png");
+  /* background: url("./media/About_and_Home_Page/abg3.png"); */
+  background: url("./media/blue-background.jpg");
   min-height: 500px;
   background-attachment: fixed;
   background-position: center;
@@ -195,11 +197,13 @@
 .IamSection {
   position: absolute;
   margin-left: 2rem;
-  color: orange;
+  /* color: cyan; */
+  color: cyan;
   text-align: left;
 }
 .Typewriter__cursor {
-  color: orange;
+  /* color: cyan; */
+  color: cyan;
   text-align: inherit;
 }
 
@@ -286,13 +290,15 @@
   }
 
   .parallax {
-    background: url("./media/About_and_Home_Page/abg1.png");
+    /* background: url("./media/About_and_Home_Page/abg1.png"); */
+    background: url("./media/blue-background.jpg");
     min-height: 300px;
     background-position: center;
     background-repeat: no-repeat;
   }
   .parallax2 {
-    background: url("./media/About_and_Home_Page/abg3.png");
+    /* background: url("./media/About_and_Home_Page/abg3.png"); */
+    background: url("./media/blue-background.jpg");
     min-height: 300px;
     background-position: center;
     background-repeat: no-repeat;
@@ -482,5 +488,9 @@
   }
   .navbar-nav {
     padding-top: 5px;
+  }
+
+  .home_visual {
+    height: 14rem !important;
   }
 }

@@ -7,7 +7,7 @@ const About = () => {
         style={{ marginBottom: "4rem", fontSize: "3rem", paddingTop: "4rem" }}
         id="about"
       >
-        A Dance of Dragons
+        Portfolio Theme- A Dance of Dragons
       </h2>
 
       <div className="row">

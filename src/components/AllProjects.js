@@ -8,7 +8,8 @@ import FEA from "../media/FEA_Dragon_Fluffy.png";
 import Batmobile from "../media/TF_Dragon_Batter.png";
 import Smaug from "../media/Smaug.png";
 import PMAT from "../media/PMAT_Dragon_Drall-E.png";
-
+import Home_visual from "../media/House_Sales_Visualization.png";
+import Airline_visual from "../media/Airline_visual.png";
 const AllProjects = () => {
   return (
     <div className="container AllProjects" id="project">
@@ -28,111 +29,73 @@ const AllProjects = () => {
           <div className="row row-cols-2">
             <div className="col projects_col">
               <span className="img1">
-                <Link to="/allprojects/imperialdicechess">
+                {/* <Link to="/allprojects/imperialdicechess"> */}
+                <a
+                  target="_blank"
+                  href="https://public.tableau.com/app/profile/anshpal.sahni/viz/HouseSalesDashboard_17125041304350/HouseSalesDashboard"
+                >
                   <img
-                    className="project_img img-fluid"
+                    className="project_img img-fluid home_visual"
                     // src="https://i.ibb.co/KsV2WPs/C2-Dragon-Sicilian.png"
-                    src={imperialdicechess}
+                    // src={imperialdicechess}
+                    src={Home_visual}
                     alt=""
+                    style={{ height: "25rem" }}
                   />
-                  <span className="allprojects_img">Imperial Dice Chess</span>
-                </Link>
+                  <span className="allprojects_img">
+                    {" "}
+                    House Sales Visualization
+                  </span>
+                  {/* </Link> */}
+                </a>
               </span>
             </div>
             <div className="col projects_col">
               <span className="img1">
-                <Link to="/allprojects/VIFDM">
+                {/* <Link to="/allprojects/VIFDM"> */}
+                <a
+                  href="https://public.tableau.com/app/profile/anshpal.sahni/viz/AirlineReviewDashboard_17125012265220/Dashboard1"
+                  target="_blank"
+                >
                   <img
                     className="project_img img-fluid"
                     // src="https://i.ibb.co/K75r6J3/DS-Dragon-Lavarys.png"
-                    src={VIFDM}
+                    // src={VIFDM}
+                    src={Airline_visual}
                     alt=""
                   />
 
                   <span className="allprojects_img">
-                    Vehicle Insurance Fraud Detection Model
+                    Airline Review Visualization
                   </span>
-                </Link>
+                  {/* </Link> */}
+                </a>
               </span>
             </div>
             <div className="col projects_col">
               <span className="img2">
-                <Link to="/allprojects/Rebirth">
-                  <img
-                    className="project_img img-fluid"
-                    // src="https://i.ibb.co/zHD06dn/SDE-Dragon-Penelope.png"
-                    src={Rebirth}
-                    alt=""
-                  />
-                  <span className="allprojects_img ">Rebirth</span>
-                </Link>
-              </span>
-            </div>
-            <div className="col projects_col">
-              <span className="img2">
-                <Link to="/allprojects/Blok1">
-                  <img
-                    className="project_img img-fluid"
-                    // src="https://i.ibb.co/yVrBk38/IDE-Dragon-Waeve.png"
-                    src={Blok1}
-                    alt=""
-                  />
-                  <span className="allprojects_img">Blok-1, Music in 3D</span>
-                </Link>
-              </span>
-            </div>
-            <div className="col projects_col">
-              <span className="img2">
-                <Link to="/allprojects/TandemBicycle">
-                  <img
-                    className="project_img img-fluid"
-                    // src="https://i.ibb.co/kyTsp7Y/FEA-Dragon-Fluffy.png"
-                    src={FEA}
-                    alt=""
-                  />
-                  <span className="allprojects_img">
-                    FEA of a Tandem Bicycle Frame
-                  </span>
-                </Link>
-              </span>
-            </div>
-            <div className="col projects_col">
-              <span className="img3">
-                <Link to="/allprojects/Batmobile">
-                  <img
-                    className="project_img img-fluid"
-                    // src="https://i.ibb.co/wMY1Yk6/TF-Dragon-Batter.png"
-                    src={Batmobile}
-                    alt=""
-                  />
-                  <span className="allprojects_img">
-                    Vehicle Aerodynamics - The Batmobile
-                  </span>
-                </Link>
-              </span>
-            </div>
-
-            <div className="col projects_col">
-              <span className="img3">
+                {/* <Link to="/allprojects/Rebirth"> */}
                 <img
                   className="project_img img-fluid"
-                  // src="https://i.ibb.co/BLnJ72h/Smaug.png"
-                  src={Smaug}
+                  // src="https://i.ibb.co/zHD06dn/SDE-Dragon-Penelope.png"
+                  src={Rebirth}
                   alt=""
                 />
-                <span className="allprojects_img">Coming Soon...</span>
+                <span className="allprojects_img ">Coming Soon!</span>
+                {/* </Link> */}
               </span>
             </div>
-
             <div className="col projects_col">
               <span className="img2">
+                {/* <Link to="/allprojects/Blok1"> */}
                 <img
                   className="project_img img-fluid"
-                  // src="https://i.ibb.co/PDy92vT/PMAT-Dragon-Drall-E.png"
-                  src={PMAT}
+                  // src="https://i.ibb.co/yVrBk38/IDE-Dragon-Waeve.png"
+                  src={Blok1}
                   alt=""
                 />
-                <span className="allprojects_img">Coming Soon...</span>
+                <span className="allprojects_img">Coming Soon!</span>
+                {/* </Link> */}
               </span>
             </div>
           </div>

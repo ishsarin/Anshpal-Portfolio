@@ -5,6 +5,7 @@ import s1 from "../../media/SDE_bg/drive-download-20221119T200423Z-001/s1.png";
 import s2 from "../../media/SDE_bg/drive-download-20221119T200423Z-001/s2.png";
 import s3 from "../../media/SDE_bg/drive-download-20221119T200423Z-001/s3.png";
 import s4 from "../../media/SDE_bg/drive-download-20221119T200423Z-001/s4.png";
+import House_visual from "../../media/House_Sales_Visualization.png";
 
 const Rebirth = () => {
   return (
@@ -17,7 +18,8 @@ const Rebirth = () => {
             <img
               className="img-fluid"
               // src="https://i.ibb.co/zHD06dn/SDE-Dragon-Penelope.png"
-              src={birth}
+              // src={birth}
+              src={House_visual}
               alt=""
             />
           </div>

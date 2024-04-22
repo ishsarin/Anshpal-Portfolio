@@ -18,7 +18,7 @@ const Blok1 = () => {
           </div>
           <div class="col-6 starting_text ">
             imagine/ Magical cute dragon in sleek white colours, vibing to
-            music, with music notes on purple, orange, pink coloured blocks,
+            music, with music notes on purple, cyan, pink coloured blocks,
             dynamic pose, Extreme detailed, intricate details, correct anatomy,
             magical light in the background, Unreal engine, Pixar. Octane
             render, wide angle, 8k, cinematic light, --ar 16:9

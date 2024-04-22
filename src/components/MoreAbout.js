@@ -1,6 +1,7 @@
 import React from "react";
 import Contact from "./Contact";
 import { Link } from "react-router-dom";
+import profileDP from "../media/Anshpal.jpeg";
 const MoreAbout = () => {
   let val = true;
   let width = 84;
@@ -63,7 +64,8 @@ const MoreAbout = () => {
         <div className="col-md-5">
           <img
             className="img-fluid_mohit"
-            src="https://i.ibb.co/sjtwPTc/Mohit.jpg"
+            // src="https://i.ibb.co/sjtwPTc/Mohit.jpg"
+            src={profileDP}
             height="70%"
             alt="Mohit"
           />
