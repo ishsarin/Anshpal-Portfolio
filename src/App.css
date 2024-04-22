@@ -13,7 +13,12 @@
   border-radius: 50%;
 }
 
-/* .logo {
+.about-portfolio {
+  align-items: center;
+  padding-bottom: 2rem;
+}
+
+.logo {
   animation-name: flip_animation;
   animation-duration: 2s;
   animation-iteration-count: infinite;
@@ -26,12 +31,12 @@
   to {
     transform: rotateY(360deg);
   }
-} */
+}
 
 @media (prefers-reduced-motion: no-preference) {
-  /* .App-logo {
+  .App-logo {
     animation: App-logo-spin infinite 20s linear;
-  } */
+  }
 }
 
 .App-header {
@@ -214,6 +219,15 @@
 .about_the_creator_text {
   text-align: left;
   padding: 1rem;
+}
+
+.coming-soon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 5px solid white;
+  color: white;
+  height: 24rem;
 }
 
 @media (max-width: 767px) {

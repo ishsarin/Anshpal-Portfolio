@@ -37,7 +37,6 @@ const Projects = () => {
                     // src={imperialdicechess}
                     src={Home_visual}
                     alt=""
-                    style={{ height: "25rem" }}
                   />
                   <span className="allprojects_img">
                     House Sales Visualization
@@ -67,29 +66,28 @@ const Projects = () => {
                 </a>
               </span>
             </div>
-            <div className="col projects_col">
+            <div className="col projects_col ">
               <span className="img2">
                 {/* <Link to="/allprojects/Rebirth"> */}
                 <img
                   className="project_img img-fluid"
                   // src="https://i.ibb.co/zHD06dn/SDE-Dragon-Penelope.png"
-                  src={Rebirth}
+                  src=""
                   alt=""
                 />
-                <span className="allprojects_img ">Coming Soon!</span>
+                <span className="">Coming Soon!</span>
                 {/* </Link> */}
               </span>
             </div>
-            <div className="col projects_col">
+            <div className="col projects_col ">
               <span className="img2">
                 {/* <Link to="/allprojects/Blok1"> */}
                 <img
                   className="project_img img-fluid"
                   // src="https://i.ibb.co/yVrBk38/IDE-Dragon-Waeve.png"
-                  src={Blok1}
-                  alt=""
+                  src=""
                 />
-                <span className="allprojects_img">Coming Soon!</span>
+                <span className="">Coming Soon!</span>
                 {/* </Link> */}
               </span>
             </div>

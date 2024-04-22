@@ -1,5 +1,5 @@
 import React from "react";
-
+import ninja from "../media/ninja.png";
 const About = () => {
   return (
     <div className="container about">
@@ -10,7 +10,7 @@ const About = () => {
         Portfolio Theme
       </h2>
 
-      <div className="row">
+      <div className="row about-portfolio">
         <div className="col-md-6 about_the_website_text ">
           <p>
             Welcome to my portfolio website, where I showcase my expertise in
@@ -23,7 +23,8 @@ const About = () => {
         <div className="col-md-6 token">
           <img
             className="logo github_token "
-            src="https://avatars.githubusercontent.com/u/73143061?v=4"
+            // src="https://avatars.githubusercontent.com/u/73143061?v=4"
+            src={ninja}
             height="75%"
             alt="Mohit"
           />
