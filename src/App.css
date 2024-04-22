@@ -13,7 +13,7 @@
   border-radius: 50%;
 }
 
-.logo {
+/* .logo {
   animation-name: flip_animation;
   animation-duration: 2s;
   animation-iteration-count: infinite;
@@ -26,12 +26,12 @@
   to {
     transform: rotateY(360deg);
   }
-}
+} */
 
 @media (prefers-reduced-motion: no-preference) {
-  .App-logo {
+  /* .App-logo {
     animation: App-logo-spin infinite 20s linear;
-  }
+  } */
 }
 
 .App-header {
