@@ -21,7 +21,7 @@ const About = () => {
           </p>
           <button className="btn btn-primary w-50 resume-btn p-3">
             <a
-              href="https://drive.google.com/file/d/1w84x-DefuTLXcofAI0ZaSuX54E-7JhfQ/view"
+              href="https://drive.google.com/file/d/1oAwcdUZ6T8DxPc8us92t-PnhtK6Tmhka/view?usp=sharing"
               target="_blank"
               style={{ color: "white", textDecoration: "none" }}
             >

@@ -45,7 +45,7 @@ const Nav = () => {
                 <a
                   className="nav-link "
                   aria-current="page"
-                  href="https://drive.google.com/file/d/1w84x-DefuTLXcofAI0ZaSuX54E-7JhfQ/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1oAwcdUZ6T8DxPc8us92t-PnhtK6Tmhka/view?usp=sharing"
                   target="_blank"
                 >
                   RESUME
