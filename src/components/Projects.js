@@ -6,6 +6,7 @@ import Rebirth from "../media/SDE_Dragon_Penelope.png";
 import Home_visual from "../media/House_Sales_Visualization.png";
 import Airline_visual from "../media/Airline_visual.png";
 import Blok1 from "../media/IDE_Dragon_Waeve.png";
+import white from "../media/white.webp";
 const Projects = () => {
   return (
     <div className="container" id="project">
@@ -66,28 +67,32 @@ const Projects = () => {
                 </a>
               </span>
             </div>
-            <div className="col projects_col ">
-              <span className="img2">
-                {/* <Link to="/allprojects/Rebirth"> */}
+            <div className="col projects_col">
+              <span className="img1">
+                {/* <Link to="/allprojects/VIFDM"> */}
+                {/* <img className="project_img img-fluid" src={VIFDM} alt="" /> */}
                 <img
-                  className="project_img img-fluid"
-                  // src="https://i.ibb.co/zHD06dn/SDE-Dragon-Penelope.png"
-                  src=""
+                  className="project_img img-fluid coming-soon"
+                  src={white}
                   alt=""
                 />
-                <span className="">Coming Soon!</span>
+
+                <span className="allprojects_img">Coming Soon!</span>
                 {/* </Link> */}
               </span>
             </div>
-            <div className="col projects_col ">
-              <span className="img2">
-                {/* <Link to="/allprojects/Blok1"> */}
+            <div className="col projects_col">
+              <span className="img1">
+                {/* <Link to="/allprojects/VIFDM"> */}
+
+                {/* <img className="project_img img-fluid" src={VIFDM} alt="" /> */}
                 <img
-                  className="project_img img-fluid"
-                  // src="https://i.ibb.co/yVrBk38/IDE-Dragon-Waeve.png"
-                  src=""
+                  className="project_img img-fluid coming-soon"
+                  src={white}
+                  alt=""
                 />
-                <span className="">Coming Soon!</span>
+
+                <span className="allprojects_img">Coming Soon!</span>
                 {/* </Link> */}
               </span>
             </div>

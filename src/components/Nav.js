@@ -42,7 +42,12 @@ const Nav = () => {
                 </Link>
               </li>
               <li className="nav-item">
-                <a className="nav-link " aria-current="page" href="">
+                <a
+                  className="nav-link "
+                  aria-current="page"
+                  href="https://drive.google.com/file/d/1w84x-DefuTLXcofAI0ZaSuX54E-7JhfQ/view?usp=sharing"
+                  target="_blank"
+                >
                   RESUME
                 </a>
               </li>

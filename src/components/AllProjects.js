@@ -10,6 +10,7 @@ import Smaug from "../media/Smaug.png";
 import PMAT from "../media/PMAT_Dragon_Drall-E.png";
 import Home_visual from "../media/House_Sales_Visualization.png";
 import Airline_visual from "../media/Airline_visual.png";
+import white from "../media/white.webp";
 const AllProjects = () => {
   return (
     <div className="container AllProjects" id="project">
@@ -40,7 +41,6 @@ const AllProjects = () => {
                     // src={imperialdicechess}
                     src={Home_visual}
                     alt=""
-                    style={{ height: "25rem" }}
                   />
                   <span className="allprojects_img">
                     {" "}
@@ -73,27 +73,33 @@ const AllProjects = () => {
               </span>
             </div>
             <div className="col projects_col">
-              <span className="img2">
-                {/* <Link to="/allprojects/Rebirth"> */}
+              <span className="img1">
+                {/* <Link to="/allprojects/VIFDM"> */}
+
+                {/* <img className="project_img img-fluid" src={VIFDM} alt="" /> */}
                 <img
                   className="project_img img-fluid"
-                  // src="https://i.ibb.co/zHD06dn/SDE-Dragon-Penelope.png"
-                  src={Rebirth}
+                  src={white}
                   alt=""
+                  style={{ width: "-webkit-fill-available" }}
                 />
-                <span className="allprojects_img ">Coming Soon!</span>
+
+                <span className="allprojects_img">Coming Soon!</span>
                 {/* </Link> */}
               </span>
             </div>
             <div className="col projects_col">
-              <span className="img2">
-                {/* <Link to="/allprojects/Blok1"> */}
+              <span className="img1">
+                {/* <Link to="/allprojects/VIFDM"> */}
+
+                {/* <img className="project_img img-fluid" src={VIFDM} alt="" /> */}
                 <img
                   className="project_img img-fluid"
-                  // src="https://i.ibb.co/yVrBk38/IDE-Dragon-Waeve.png"
-                  src={Blok1}
+                  src={white}
                   alt=""
+                  style={{ width: "-webkit-fill-available" }}
                 />
+
                 <span className="allprojects_img">Coming Soon!</span>
                 {/* </Link> */}
               </span>

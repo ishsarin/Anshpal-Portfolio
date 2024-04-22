@@ -221,13 +221,12 @@
   padding: 1rem;
 }
 
+.resume-btn {
+  margin-left: 20%;
+  padding-top: 10px;
+}
 .coming-soon {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  border: 5px solid white;
-  color: white;
-  height: 24rem;
+  width: -webkit-fill-available !important;
 }
 
 @media (max-width: 767px) {
@@ -274,6 +273,9 @@
   .IamSection_css div {
     left: 9%;
   }
+  .coming-soon {
+    width: 223% !important;
+  }
 
   .bottom_arrow {
     position: inherit;
@@ -299,22 +301,25 @@
     padding-left: 0px;
   }
   .img-fluid {
-    max-width: 223%;
+    max-width: 223% !important;
     height: auto;
+  }
+  .resume-btn {
+    margin-left: 0px !important;
   }
 
   .parallax {
     /* background: url("./media/About_and_Home_Page/abg1.png"); */
     background: url("./media/blue-background.jpg");
     min-height: 300px;
-    background-position: center;
+    background-position: bottom;
     background-repeat: no-repeat;
   }
   .parallax2 {
     /* background: url("./media/About_and_Home_Page/abg3.png"); */
     background: url("./media/blue-background.jpg");
     min-height: 300px;
-    background-position: center;
+    background-position: bottom;
     background-repeat: no-repeat;
   }
   .project1_img1 {
@@ -420,6 +425,7 @@
   .about_the_website_text {
     padding-left: 1rem;
     text-align: center !important;
+    padding-bottom: 2rem;
   }
 
   .contact {
