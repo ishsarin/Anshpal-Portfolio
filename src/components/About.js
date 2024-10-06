@@ -58,7 +58,7 @@ const About = () => {
             className="logo github_token "
             src="https://avatars.githubusercontent.com/u/73143061?v=4"
             height="75%"
-            alt="Mohit"
+            alt="Anshpal"
           />
         </div>
       </div>
