@@ -65,7 +65,7 @@ const MoreAbout = () => {
             className="img-fluid_mohit"
             src="https://i.ibb.co/sjtwPTc/Mohit.jpg"
             height="70%"
-            alt="Mohit"
+            alt="Anshpal"
           />
           {/* <div className="container contact" id="contact"  style={{width:"84%",backgroundColor:"white"}}  >
       <span>
